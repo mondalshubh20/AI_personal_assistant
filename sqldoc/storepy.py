@@ -1,7 +1,7 @@
 import subprocess
 
 # Specify the path to your program
-program_path = r"E:\python files\mainfunc\ex1.py"
+program_path = r"E:\python files\sql\fetch.py"
 
 # Run the program and capture its output
 output_data = subprocess.getoutput(f'python "{program_path}"')
